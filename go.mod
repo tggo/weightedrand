@@ -1,3 +1,3 @@
-module github.com/mroth/weightedrand
+module github.com/tggo/weightedrand
 
 go 1.10
